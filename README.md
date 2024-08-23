@@ -126,6 +126,6 @@ For any questions or inquiries, please contact:
 - Muhammad Azam Khan: [mmakn5544@gmail.com](mailto:mmakn5544@gmail.com)
 --github :[https://github.com/Muhammad-Azam-khan]
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [https://www.linkedin.com/in/me/]
 
 
